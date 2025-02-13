@@ -7,6 +7,10 @@
     font-family: "Montserrat", sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .navBar {
     top: 0px;
     left: 0px;
