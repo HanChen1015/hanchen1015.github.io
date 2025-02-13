@@ -7,8 +7,15 @@
     font-family: "Montserrat", sans-serif;
 }
 
+body {
+    background-image: linear-gradient(black, rgb(30, 30, 30));
+    padding-top: 125px;
+}
+
 html {
     scroll-behavior: smooth;
+    scroll-padding: 125px;
+    color: white;
 }
 
 .navBar {
