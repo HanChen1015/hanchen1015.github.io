@@ -60,3 +60,24 @@ html {
     text-align: justify;
     font-size: 25px;
 }
+
+.skills {
+    padding: 7vh 15vw 10vh 15vw;
+}
+
+.programLang {
+    display: flex;
+    gap: 10vw;
+    font-size: 25px;
+}
+
+.skills h2 {
+    margin: 3vh 0 1vh;
+
+}
+
+.webDev {
+    display: flex;
+    gap: 10vw;
+    font-size: 25px;
+}
