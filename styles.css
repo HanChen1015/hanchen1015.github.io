@@ -62,22 +62,57 @@ html {
 }
 
 .skills {
-    padding: 7vh 15vw 10vh 15vw;
+    padding: 8vh 15vw 8vh 15vw;
 }
 
 .programLang {
     display: flex;
     gap: 10vw;
     font-size: 25px;
+    text-align: center;
 }
 
+.c p{
+    padding-right: 3px;
+}
+
+.cpp p {
+    padding-right: 3px;
+}
 .skills h2 {
     margin: 3vh 0 1vh;
-
 }
 
 .webDev {
     display: flex;
     gap: 10vw;
     font-size: 25px;
+    text-align: center;
+}
+
+.socials {
+    display: flex;
+    gap: 10vw;
+    font-size: 25px;
+    padding-left: 15vw;
+    text-align: center;
+}
+
+.soctitle {
+   padding: 8vh 0 1vh 15vw;
+}
+
+.socials img {
+    &:hover {
+        transform: scale(1.05);
+        transition: transform 0.2s ease-in-out;
+    }
+}
+
+.linkedin p {
+    padding-bottom: 3px;
+}
+
+.insta p {
+    padding-bottom: 7px;
 }
