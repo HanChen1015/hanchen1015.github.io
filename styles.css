@@ -42,3 +42,21 @@ html {
     }
     
 }
+
+.welcome {
+    padding: 7vh 15vw 10vh 15vw;
+}
+
+.intro {
+    font-size: 30px;
+    padding-bottom: 7vh;
+}
+
+.intro h1 {
+    padding-top: 5px;
+}
+
+.bio {
+    text-align: justify;
+    font-size: 25px;
+}
