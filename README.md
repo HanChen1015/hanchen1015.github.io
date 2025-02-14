@@ -1,1 +1,2 @@
 # Mini-Project-CMPT276
+I chose the MIT License for my website as its is a license that is simple as well as very credible. The MIT License is an open source license that lets other users use your work while they are also required to give credit to the original creator.
