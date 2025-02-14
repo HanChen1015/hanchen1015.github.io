@@ -183,3 +183,25 @@ html {
         transition: transform 0.2s ease-in-out;
     }
 }
+
+.name {
+    background: radial-gradient(circle, rgb(255, 105, 130), rgb(255, 166, 0), red);
+    background-clip: text;
+    color: transparent;
+    animation: name 15s linear infinite;
+    background-size: 200% 200%;
+}
+
+@keyframes name {
+    0% {
+        background-position: 0% 0%;
+    }
+
+    50% {
+        background-position: 100% 100%;
+    }
+
+    100% {
+        background-position: 0% 0%;
+    }
+}
