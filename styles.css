@@ -214,3 +214,14 @@ html {
         background-position: 0% 0%;
     }
 }
+
+.copyIcon {
+    vertical-align: middle;
+}
+
+.SFUemail {
+    opacity: 0;
+    &:hover {
+        cursor: default;
+    }
+}
