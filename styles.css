@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: linear-gradient(black, rgb(30, 30, 30));
+    background-image: linear-gradient(rgb(10, 10, 10), rgb(30, 30, 30));
     padding-top: 125px;
 }
 
@@ -94,7 +94,7 @@ html {
     display: flex;
     gap: 10vw;
     font-size: 25px;
-    padding-left: 15vw;
+    padding:0 0 8vh 15vw;
     text-align: center;
 }
 
@@ -115,4 +115,26 @@ html {
 
 .insta p {
     padding-bottom: 7px;
+}
+
+.protitle {
+    padding: 8vh 0 4vh 15vw;
+}
+
+.projects {
+    padding: 0 0 3vh 15vw;
+}
+
+.ul {
+    list-style-position: outside;
+}
+
+.projectDescription {
+    padding: 3vh 15vw 1vh 5vw;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.projectDescription li {
+    margin-bottom: 3vh;
 }
