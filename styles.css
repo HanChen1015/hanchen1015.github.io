@@ -138,3 +138,17 @@ html {
 .projectDescription li {
     margin-bottom: 3vh;
 }
+
+.education {
+    padding: 8vh 0 45vh 15vw;
+}
+
+.uni {
+    padding-top: 3vh;
+}
+
+.eduDescription {
+    padding: 1vh 15vw 4vh 5vw;
+    text-align: justify;
+    font-size: 18px;
+}
