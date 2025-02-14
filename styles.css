@@ -40,7 +40,22 @@ html {
         transform: scale(1.05);
         transition: transform 0.2s ease-in-out;
     }
-    
+}
+
+.resume {
+    display: inline-flex;
+    position: relative;
+    left: 32vw;
+}
+
+.resume a {
+    background-color: rgb(0, 118, 187);
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.externalIcon {
+    vertical-align: middle;
 }
 
 .welcome {
