@@ -26,8 +26,11 @@ html {
     position: fixed;
     padding: 0px 20px;
     display: flex;
-    align-items: center;
     background-color: rgb(29, 27, 31);
+}
+
+.navBarLinks {
+    margin-right: auto;
 }
 
 .navBarLinks a {
@@ -44,8 +47,6 @@ html {
 
 .resume {
     display: inline-flex;
-    position: relative;
-    left: 32vw;
 }
 
 .resume a {
@@ -155,7 +156,7 @@ html {
 }
 
 .education {
-    padding: 8vh 0 45vh 15vw;
+    padding: 8vh 0 35vh 15vw;
 }
 
 .uni {
