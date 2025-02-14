@@ -158,6 +158,15 @@ html {
     margin-bottom: 3vh;
 }
 
+.websiteDad a {
+    color: rgb(0, 118, 187);
+    display: inline-block;
+    &:hover {
+        transform: scale(1.05);
+        transition: transform 0.2s ease-in-out;
+    }
+}
+
 .education {
     padding: 8vh 0 35vh 15vw;
 }
